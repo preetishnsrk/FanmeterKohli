@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FANMETER KOHLI</string>
+    <string name="question">Question</string>
+    <string name="play_again">Play again</string>
+    <string name="time">15</string>
+    <string name="correct">Correct</string>
+    <string name="wrongans">Opps the ans was wrong</string>
+    <string name="timeup">Time Up</string>
+    <string name="play_game">Play Game</string>
+    <string name="end_game">Exit to main menu</string>
+    <string name="quit">Quit</string>
+    <string name="next">Next</string>
+    <string name="cancel">✖</string>
+    <string name="admob_app_id">ca-app-pub-5090552873328024~8949350268</string>
+    <string name="rewarded_app_id">ca-app-pub-5090552873328024/9916136943</string>
+    <string name="see_rewarded_ad">Watch ad to continue game</string>
+    <string name="leaderboard_score" >CgkIhb6X7bcEEAIQAQ</string>
+    <string name="rules">Rules</string>
+    <string name="banner_home_footer">ca-app-pub-5090552873328024/1165372125</string>
+</resources>
